@@ -98,3 +98,5 @@ C:\Projects\web> c2c app.py
 ---
 
 ## 🛡️ Warden Sync
+
+**Warning! this is only for vibe coding :v**
